@@ -1,0 +1,16 @@
+session:
+  duration_s: 10.0
+  rate_hz: 10.0
+  name: null
+
+thresholds:
+  voltage_min: 3.2
+  voltage_max: 3.5
+  temp_min: 15.0
+  temp_max: 40.0
+  pressure_min: 1000.0
+  pressure_max: 1030.0
+
+output:
+  dir: output
+  figures: figures
