@@ -1,3 +1,5 @@
+![Tests](https://github.com/flaxnaz/sat-telemetry-logger/actions/workflows/test.yml/badge.svg)
+
 # sat-telemetry-logger
 
 Configurable satellite telemetry capture, parse, log, and monitor tool.
